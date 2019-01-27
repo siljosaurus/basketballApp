@@ -1,2 +1,2 @@
 # basketballApp
-Learning Swift and ARkit
+Learning ARkit through Swift as a side project
